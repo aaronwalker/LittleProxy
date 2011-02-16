@@ -1,0 +1,10 @@
+#maven build files
+target
+
+#eclipse
+.classpath
+.project
+.settings
+
+#app generated log file
+log.txt
